@@ -19,6 +19,7 @@ These days I'm learning how to turn ideas into real web projects with **HTML, CS
 🪑 Restoring mid-century furniture  
 🎵 Listening to film music  
 📚 Reading fantasy and sci-fi
+
 <br><br>
 
 ## Currently learning
