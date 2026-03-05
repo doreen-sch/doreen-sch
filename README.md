@@ -27,7 +27,6 @@ These days I'm learning how to turn ideas into real web projects with **HTML, CS
 - HTML  
 - CSS  
 - JavaScript  
-- Git & GitHub  
 - Modern web development workflows  
 
 ## Goals
