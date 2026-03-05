@@ -15,7 +15,7 @@ These days I'm learning how to turn ideas into real web projects with **HTML, CS
 📷 Photography and visual storytelling  
 🚐 Vanlife and exploring the wild north of Europe  
 🪵 DIY projects and building things with my hands  
-🏔 Short hikes and mountain peaks during sunrise/sunset  
+🏔 Hikes and mountain peaks during sunrise/sunset  
 🪑 Restoring mid-century furniture  
 🎵 Listening to film music  
 📚 Reading fantasy and sci-fi
