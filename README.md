@@ -35,6 +35,4 @@ Build clean, user-friendly web experiences and combine **creative thinking with 
 
 And maybe write some code from a camper somewhere in northern Norway someday.  
 
----
-
-Thanks for stopping by!
+🫶 Thanks for stopping by!
