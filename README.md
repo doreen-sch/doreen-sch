@@ -6,12 +6,17 @@ Before diving into code, I worked in **content and email marketing** and as a **
 
 These days I'm learning how to turn ideas into real web projects with **HTML, CSS and JavaScript**, while exploring how AI tools can support creative workflows.
 
-## What I enjoy
+<img src = 'crazy dog lady .gif' width="250" alt = 'Frau outet sich als cazy dog lady' align='right'/>
 
-🐕 Spending time with my dog Miró (yes, the GIF is accurate)  
+### What I enjoy
+
+🐕 Spending time with my dog  
 📷 Photography and visual storytelling  
 🚐 Vanlife and exploring the wild north of Europe  
 🪵 DIY projects and building things with my hands  
+
+
+
 
 ## Currently learning
 
