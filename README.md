@@ -1,4 +1,4 @@
-# Hi, I'm Doreen 👋
+# Hi, I'm Doreen ✨
 
 I'm currently studying **Web Development & AI** at the neue fische bootcamp and building my way into the world of modern web development.
 
