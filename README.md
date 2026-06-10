@@ -35,7 +35,7 @@ A full-stack community platform for discovering and sharing sensory-friendly loc
 
 ## Goals
 
-Build clean, user-friendly web experiences and combine **creative thinking with technical skills**.
+Build clean, accessible, user-friendly web experiences and combine **creative thinking with technical skills**.
 
 And maybe write some code from a camper somewhere in northern Norway someday.  
 
