@@ -4,7 +4,6 @@ I'm currently studying **Web Development & AI** at the neue fische bootcamp (Mar
 
 Before diving into code, I worked in **content and email marketing** and as a **photographer** – so storytelling, visuals and user experience have always been a big part of what I do.
 
-These days I'm learning how to turn ideas into real web projects with **HTML, CSS and JavaScript**, while exploring how AI tools can support creative workflows.
 <br><br>
 <img src = 'crazy dog lady .gif' width="400" alt = 'Frau outet sich als cazy dog lady' align='right'/>
 
