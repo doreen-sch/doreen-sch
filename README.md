@@ -1,6 +1,6 @@
 # Hi, I'm Doreen ✨
 
-I'm currently studying **Web Development & AI** at the neue fische bootcamp (March–July 2026), creating full-stack web applications with modern tools and frameworks and building my way into the world of modern web development.
+I'm a Frontend Web Developer who completed the **Web Development & AI** bootcamp at neue fische (March–July 2026), building web applications with modern tools and frameworks like React, Next.js, and MongoDB.
 
 Before diving into code, I worked in **content and email marketing** and as a **photographer** – so storytelling, visuals and user experience have always been a big part of what I do.
 <br><br>
